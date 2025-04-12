@@ -15,7 +15,7 @@ O código foi implementado em Python.
 
 Os testes foram feitos em diferentes tamanhos de entrada. Os resultados podem ser observados abaixo:
 
-### 📌 **Insertio Sort**  
+### 📌 **Insertion Sort**  
 ![Execução insertionSort](Imagens/InsertionSort.png)
 
 ### 📌 **Insertion Sort Otimizado**  
